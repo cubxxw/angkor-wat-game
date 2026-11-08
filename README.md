@@ -52,7 +52,7 @@ The game includes comprehensive information for each temple:
 
 ### Prerequisites
 
-- Node.js 18+ and npm
+- Node.js 20.19+ or 22.12+ and npm
 - Modern web browser
 
 ### Installation
@@ -135,7 +135,7 @@ angkor-wat-game/
 
 - **React 18.2** - UI framework
 - **TypeScript 5.0** - Type safety
-- **Vite 5.0** - Build tool and dev server
+- **Vite 8.3** - Build tool and dev server
 - **SVG** - Scalable graphics for game board
 - **CSS3** - Styling with ancient map theme
 - **localStorage** - Game progress persistence
